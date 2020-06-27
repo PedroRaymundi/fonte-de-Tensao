@@ -37,14 +37,15 @@ Dito isso, o ideal seria aplicar essas duas resoluções simultaneamente. Mas ca
 
 ###### Resolvendo o primeiro problema
 Para diminuir essa variação de corrente e voltagem, é preciso simplesmente trocar o potenciômetro original (2K) pelo novo potenciômetro (5K). Além disso, o resistor que está em série com o potenciômetro (820R) deve ser trocado pelo novo (2,2K).
-simulação com a primeira solução
+
+[simulação com a primeira solução](http://tinyurl.com/ycsxajha)
 
 ###### Resolvendo o segundo problema
 Para parar a perda de corrente que passa pelo diodo zener basta trocar o transformador de 16V pelo de 20V e trocar o resistor de 220R pelo de 1,2K.
-simulação com a segunda solução
+
 [simulação com a segunda solução](http://tinyurl.com/ycv6hq6u)
 
-simulação com as duas soluções
+[simulação com as duas soluções](http://tinyurl.com/ybmaza7z)
 
 ## EAGLE
 
