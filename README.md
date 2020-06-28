@@ -14,7 +14,7 @@ Resistor 1|220Ω (1W)|+-R$0,12
 Resistor 2|820Ω (2W)|+-R$0,22
 Transistor NPN|16V 1A|+-R$1,00
 
-OBS: Alguns dos componentes podem ser encontrados por preços melhores e também podem sersubstituídos por outros a fim de manter uma corrente mais estável. A escolha de diversos dos componentes utilizados nesse projeto foram a disponibilidade. Por exemplo: o transformador de 16V não é tão adequado quanto um de 20V para cima, entretanto só havia esse transformador a venda localmente quando o projeto foi iniciado.
+OBS: Alguns dos componentes podem ser encontrados por preços melhores e também podem ser substituídos por outros a fim de manter uma corrente mais estável. A escolha de diversos dos componentes utilizados nesse projeto foram a disponibilidade. Por exemplo: o transformador de 16V não é tão adequado quanto um de 20V para cima, entretanto só havia esse transformador a venda localmente quando o projeto foi iniciado.
 
 ## Projeto
 Passo a passo de como montar o projeto e resumo da função de cada componente:
