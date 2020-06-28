@@ -23,7 +23,7 @@ Passo a passo de como montar o projeto e resumo da função de cada componente:
 * ###### Diodos:
     Antes de conectar os diodos ao circuito é necessário fazer uma ponte de diodos. Para isso é preciso pegar os quadro diodos e juntá-los seguindo o exemplo das fotos abaixo. Isso é feito porque o diodo só permite a passagem da corrente em uma direção (no caso do projeto seria a direção da flecha e, nos diodos reais, é a direção que vai da parte preta para a faixa cinza no diodo) e, com essa ponte montada, podemos utilizar os dois sentidos da corrente alternada que vai sair do transformador. Por esse motivo, conectaremos as pontas 1 e 2 (olhar desenho abaixo) do diodo no transformador.
 
-    ![ponte_de_diodo_projeto](/Imagens/diodos_foto.jfif)   ![ponte_de_diodo_projeto](/Imagens/diodos.png)
+    ![ponte_de_diodo_projeto](/Imagens/diodos_foto.jfif =291x188)   ![ponte_de_diodo_projeto](/Imagens/diodos.png)
 
 
 ![circuito](/Imagens/Circuito.png)
