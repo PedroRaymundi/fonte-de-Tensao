@@ -17,6 +17,15 @@ Transistor NPN|16V 1A|+-R$1,00
 OBS: Alguns dos componentes podem ser encontrados por preços melhores e também podem sersubstituídos por outros a fim de manter uma corrente mais estável. A escolha de diversos dos componentes utilizados nesse projeto foram a disponibilidade. Por exemplo: o transformador de 16V não é tão adequado quanto um de 20V para cima, entretanto só havia esse transformador a venda localmente quando o projeto foi iniciado.
 
 ## Projeto
+Passo a passo de como montar o projeto e resumo da função de cada componente:
+* ###### Transformador:
+    O transformador é conectado diretamente na tomada a fim de reduzir a corrente e a voltagem padrão da tomada para 16V e 1A. O objetivo disso é deixar mais fácil trabalhar com o sistema já que agora é possível utilizar componentes eletrônicos mais baratos que só precisam aguentar os 16V no lugar dos 127V. Além disso, também aproxima do resultado final desejado para o projeto e deixa o trabalho com o circuito mais seguro.
+* ###### Diodos:
+    Antes de conectar os diodos ao circuito é necessário fazer uma ponte de diodos. Para isso é preciso pegar os quadro diodos e juntá-los seguindo o exemplo das fotos abaixo. Isso é feito porque o diodo só permite a passagem da corrente em uma direção (no caso do projeto seria a direção da flecha e, nos diodos reais, é a direção que vai da parte preta para a faixa cinza no diodo) e, com essa ponte montada, podemos utilizar os dois sentidos da corrente alternada que vai sair do transformador. Por esse motivo, conectaremos as pontas 1 e 2 (olhar desenho abaixo) do diodo no transformador.
+    ![ponte_de_diodo_foto](/imagens/diodos_foto.jfif)    ![ponte_de_diodo_projeto](/imagens/diodos.png)
+
+
+![circuito](/imagens/circuito.png)
 
 Resistor 3|120R (2W)|+-R$0,22
 
