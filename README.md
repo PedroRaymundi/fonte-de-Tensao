@@ -27,7 +27,7 @@ Passo a passo de como montar o projeto e resumo da função de cada componente:
 * #### Capacitor:
     O capacitor serve para suprir a corrente energética enquanto a corrente da tomada está na inversão de fase e assim ajuda o circuito a manter uma corrente mais linear em todos os períodos. A partir desse momento é preciso tomar cuidado com a parte positiva e negativa do circuito, já que a ponte de diodos faz com que a corrente sempre saia do ponto 3 para o ponto 4. Por isso, é preciso conectar a parte positiva do capacitor em paralelo com a saída 3 e a parte negativa do capacitor com o ponto 4.
 * #### Resistor 220Ω e diodo zener:
-    O diodo zener serve apenas para limitar a voltagem (nesse caso em 13V), portanto, não há necessidade de passar muita corrente por ele, por esse motivo o resistor de 220Ω é colocado em paralelo ao zener.
+    O diodo zener serve apenas para limitar a voltagem (nesse caso em 13V), portanto, não há necessidade de passar muita corrente por ele, por esse motivo o resistor de 220Ω é colocado em série ao zener.
 * #### Resitor 820Ω e potenciômetro:
     Para regular a voltagem entre 3V e 12V é usado o potenciômetro em série com o resistor de 820Ω, o resistor serve para limitar a voltagem mínima em 3V. Esse sistema é conectado entre o resistor de 220Ω e o diodo zener, seguindo o esquema a seguir:
 
