@@ -40,6 +40,7 @@ Passo a passo de como montar o projeto e resumo da função de cada componente:
 * #### Resultado final:
     ![circuito](/Imagens/Circuito.png)
     OBS: o resistor de 120Ω 
+    
     [projeto final](http://tinyurl.com/yah34b3g)
 
 ## Soluções para problemas
