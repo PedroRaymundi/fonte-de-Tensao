@@ -45,7 +45,7 @@ Passo a passo de como montar o projeto e resumo da função de cada componente:
 
 ## Soluções para problemas
 Já em simulações é perceptível 2 problemas no projeto que podem ser facilmente solucionáveis:
-* Existe uma pequena variação na voltagem e corrente final. Sendo essa o máximo de variação 0,728V e 8,498mA entre picos e vales de corrente;
+* Existe uma pequena variação na voltagem e corrente final. Sendo a variação variação máxima 0,728V e 8,498mA entre picos e vales de corrente;
 * Uma quantidade de corrente considerável passa pelo diodo zener sem necessidade;
 
 Consertar cada um dos problemas é relativamente simples. Para isso será necessário:
