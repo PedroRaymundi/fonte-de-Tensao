@@ -66,7 +66,7 @@ Para diminuir essa variação de corrente e voltagem, é preciso simplesmente tr
 #### Resolvendo o segundo problema
 Para parar a perda de corrente que passa pelo diodo zener basta trocar o transformador de 16V pelo de 20V e trocar o resistor de 220Ω pelo de 1,2K.
 
-[simulação com a segunda solução](http://tinyurl.com/ycv6hq6u)
+[simulação com a segunda solução](http://tinyurl.com/ydgm5fts)
 
 [simulação com as duas soluções](http://tinyurl.com/ycnncrfg)
 
