@@ -41,7 +41,7 @@ Passo a passo de como montar o projeto e resumo da função de cada componente:
     ![circuito](/Imagens/Circuito.png)
     OBS: o resistor de 120Ω 
     
-    [projeto final](http://tinyurl.com/yah34b3g)
+    [projeto final](http://tinyurl.com/ycepgu2t)
 
 ## Soluções para problemas
 Já em simulações é perceptível 2 problemas no projeto que podem ser facilmente solucionáveis:
@@ -68,7 +68,7 @@ Para parar a perda de corrente que passa pelo diodo zener basta trocar o transfo
 
 [simulação com a segunda solução](http://tinyurl.com/ycv6hq6u)
 
-[simulação com as duas soluções](http://tinyurl.com/ybmaza7z)
+[simulação com as duas soluções](http://tinyurl.com/ycnncrfg)
 
 ## EAGLE
 
