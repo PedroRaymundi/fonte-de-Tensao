@@ -40,12 +40,12 @@ Passo a passo de como montar o projeto e resumo da função de cada componente:
 * #### Resultado final:
     ![circuito](/Imagens/Circuito.png)
     OBS: o resistor de 120Ω 
-    
+
     [projeto final](http://tinyurl.com/ycepgu2t)
 
 ## Soluções para problemas
 Já em simulações é perceptível 2 problemas no projeto que podem ser facilmente solucionáveis:
-* Existe uma pequena variação na voltagem e corrente final. Sendo a variação variação máxima 0,728V e 8,498mA entre picos e vales de corrente;
+* Existe uma pequena variação na voltagem e corrente final. Sendo a variação máxima 0,728V e 8,498mA entre picos e vales de corrente;
 * Uma quantidade de corrente considerável passa pelo diodo zener sem necessidade;
 
 Consertar cada um dos problemas é relativamente simples. Para isso será necessário:
@@ -61,16 +61,21 @@ Dito isso, o ideal seria aplicar essas duas resoluções simultaneamente. Mas ca
 #### Resolvendo o primeiro problema
 Para diminuir essa variação de corrente e voltagem, é preciso simplesmente trocar o potenciômetro original (2K) pelo novo potenciômetro (5K). Além disso, o resistor que está em série com o potenciômetro (820Ω) deve ser trocado pelo novo (2,2K).
 
-[simulação com a primeira solução](http://tinyurl.com/ybjmejnk)
+[simulação com a primeira solução](http://tinyurl.com/ycsxajha)
 
 #### Resolvendo o segundo problema
 Para parar a perda de corrente que passa pelo diodo zener basta trocar o transformador de 16V pelo de 20V e trocar o resistor de 220Ω pelo de 1,2K.
 
-[simulação com a segunda solução](http://tinyurl.com/ydgm5fts)
+[simulação com a segunda solução](http://tinyurl.com/ycv6hq6u)
 
-[simulação com as duas soluções](http://tinyurl.com/ycnncrfg)
+[simulação com as duas soluções](http://tinyurl.com/ybmaza7z)
 
 ## EAGLE
+### Projeto esquemático
+![projeto_esquematico](/Imagens/projetoesquematico.png)
+
+### Projeto PCB
+![projeto_pcb](/Imagens/projetopcb.png)
 
 ## Feito por:
 * Pedro Henrique Raymundi, nUSP: 11795634
