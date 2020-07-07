@@ -79,3 +79,4 @@ Para parar a perda de corrente que passa pelo diodo zener basta trocar o transfo
 
 ## Feito por:
 * Pedro Henrique Raymundi, nUSP: 11795634
+[video com o projeto finalizado](https://youtu.be/qeKwLvBPG0Y)
